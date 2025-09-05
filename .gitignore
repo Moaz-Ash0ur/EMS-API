@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuration
+appsettings.json
+appsettings.Development.json
+
+# Logs
+*.log
+
+# Other
+.vscode/
+.idea/
